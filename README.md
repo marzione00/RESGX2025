@@ -1,4 +1,4 @@
-# Repository Overview
+# Repository Overview - Ransomware detection using sample entropy and graphical models: a methodology for explainable artificial intelligence (XAI) in cybersecurity
 
 This repository contains **(i)** the dataset provided by *Anand, P. Mohan; Charan, P. V. Sai; and Shukla, Sandeep K.* for **“HiPeR — Early detection of a ransomware attack using hardware performance counters”**, and **(ii)** the code used in our article/experiments built on top of that dataset.
 
