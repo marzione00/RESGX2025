@@ -5,16 +5,6 @@ This repository contains **(i)** the dataset provided by *Anand, P. Mohan; Chara
 ## Required citation for dataset use
 If you use the **HiPeR** dataset in any form (including subsets, derivatives, or re-distributions), **you must cite the original article** by the dataset authors:
 
-> Anand, P. Mohan; Charan, P. V. Sai; and Shukla, Sandeep K.  
-> *HiPeR — Early detection of a ransomware attack using hardware performance counters.*  
-> <add venue>, <year>. <add DOI/URL if available>.
+ANAND, P. Mohan; CHARAN, PV Sai; SHUKLA, Sandeep K. Hiper-early detection of a ransomware attack using hardware performance counters. Digital Threats: Research and Practice, 2023, 4.3: 1-24. https://dl.acm.org/doi/10.1145/3608484
 
-### BibTeX (fill in venue/year/doi as appropriate)
-```bibtex
-@article{HiPeR,
-  title   = {HiPeR: Early detection of a ransomware attack using hardware performance counters},
-  author  = {Anand, P. Mohan and Charan, P. V. Sai and Shukla, Sandeep K.},
-  journal = {<journal or conference>},
-  year    = {<year>},
-  doi     = {<doi if available>}
-}
+
